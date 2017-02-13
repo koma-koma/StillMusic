@@ -1,0 +1,18 @@
+<group>
+	<ground_level>2000</ground_level>
+	<threshold>100</threshold>
+	<minBlobSize>0</minBlobSize>
+	<maxBlobSize>1</maxBlobSize>
+	<maxNumBlobs>10</maxNumBlobs>
+	<findHoles>0</findHoles>
+	<useApproximation>1</useApproximation>
+<Contour_Finder>
+		<ground_level>1150</ground_level>
+		<threshold>100</threshold>
+		<minBlobSize>0.1</minBlobSize>
+		<maxBlobSize>1</maxBlobSize>
+		<maxNumBlobs>10</maxNumBlobs>
+		<findHoles>0</findHoles>
+		<useApproximation>1</useApproximation>
+	</Contour_Finder>
+</group>

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CD78F29E9B6FC0EAC5493D3F213010DDAA398E97",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CD78F29E9B6FC0EAC5493D3F213010DDAA398E97" : 9223372036854775807,
+    "8EB39633AEBCDAD26A0EB4F007DB6C45822C0C4A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DF7C1E98-2040-4D1A-AA75-13F9933B4FA1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CD78F29E9B6FC0EAC5493D3F213010DDAA398E97" : "myApps\/",
+    "8EB39633AEBCDAD26A0EB4F007DB6C45822C0C4A" : "myApps\/kinectSound\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "kinectsoundv2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "kinectsoundv2\/kinectsoundv2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/koma-koma\/kinectSound.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8EB39633AEBCDAD26A0EB4F007DB6C45822C0C4A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/koma-koma\/oFApps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CD78F29E9B6FC0EAC5493D3F213010DDAA398E97"
+    }
+  ]
+}
